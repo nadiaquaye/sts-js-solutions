@@ -1,19 +1,3 @@
-let firstName = "John"; // first name of a person
-let isMarried = false; // marriage status
-let middleName; // middlename of the person
-let children = null; // number of children
-
-// Declare four variables without assigning values
-let name;
-let age;
-let country;
-let occupation;
-
-// Declare four variables with assigned values
-let firstName = "John";
-let lastName = "Doe";
-let age = 25;
-let country = "Ghana";
 
 // Declare personal details in multiple lines
 let fullName = "John Doe";
